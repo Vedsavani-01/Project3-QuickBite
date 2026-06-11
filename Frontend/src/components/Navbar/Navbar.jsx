@@ -50,6 +50,7 @@ const Navbar = ({ setShowLogin }) => {
           onClick={() => setMenu("contact-us")}
         >
           contact us
+          VED SAVANI
         </a>
       </ul>
       <div className={style.navbarRight}>
